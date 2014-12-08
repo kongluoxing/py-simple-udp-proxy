@@ -2,4 +2,4 @@
 A very simple utility to implement UDP redirection.
 
 * USAGE
-: python proxy.py --bind-address=0.0.0.0 --port=623 --dest-ip=10.128.20.12 --dest-port=623
+: python proxy.py --bind-address=0.0.0.0 --port=623 --dst-ip=10.128.20.12 --dst-port=623
